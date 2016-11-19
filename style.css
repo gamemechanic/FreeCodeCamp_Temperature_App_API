@@ -1,0 +1,22 @@
+body {
+  background: orange;
+}
+h1 {
+  font-family: lobster Two;
+  color: white;
+  font-size: 5.5em;
+}
+h2 {
+  font-family: lobster Two;
+  color: white;
+  font-size: 3.5em;
+}
+#location {
+  font-family: lobster two;
+  //color: grey;
+  font-size: 2em;
+}
+#temperature, #country{
+  font-family: lobster two;
+  font-size: 2em;
+}
